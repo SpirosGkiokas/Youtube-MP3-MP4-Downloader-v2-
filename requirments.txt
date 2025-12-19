@@ -1,4 +1,5 @@
 #Python: 3.12.2 or newer
+#Download ffmpeg and put the folder inside libs https://ffmpeg.org/download.html
 
 customtkinter # pip install customtkinter
 yt_dlp  # pip install yt-dlp
