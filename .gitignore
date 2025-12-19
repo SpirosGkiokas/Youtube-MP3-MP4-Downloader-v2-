@@ -1,8 +1,0 @@
-venv/
-
-# ffmpeg binaries
-libs/ffmpeg/
-
-# Byte-compiled Python files
-*.pyc
-__pycache__/
